@@ -1,0 +1,60 @@
+const data = {
+    characterCakes: [
+      {
+        id: 1,
+        name: "Dolly Varden Cake",
+        image: "images/dollyvardencake.jpeg",
+        price: 50
+      },
+      {
+        id: 2,
+        name: "Duck Cake",
+        image: "images/duckcake.jpeg",
+        price: 35
+      },
+      {
+        id: 3,
+        name: "Echidna Cake",
+        image: "images/echidna-ice-cream-cake.jpeg",
+        price: 35
+      },
+      {
+        id: 4,
+        name: "Jack in the Box Cake",
+        image: "images/jackinthebox.jpeg",
+        price: 35
+      },
+      {
+        id: 5,
+        name: "Lazy Ladybird Cake",
+        image: "images/lazy-ladybird.jpeg",
+        price: 60
+      },
+      {
+        id: 6,
+        name: "Pirate Pete Cake",
+        image: "images/piratepete.jpeg",
+        price: 50
+      }
+    ],
+    otherCakes: [
+      {
+        id: 1,
+        name: "Castle for a Princess Cake",
+        image: "images/castle-for-a-princess.jpeg",
+        price: 10
+      },
+      {
+        id: 2,
+        name: "Choo Choo Train Cake",
+        image: "images/choo-choo-train-birthday-cake.jpeg",
+        price: 15
+      },
+      {
+        id: 3,
+        name: "Swimming Pool Cake",
+        image: "images/swimming-pool-cake.jpeg",
+        price: 25
+      }
+    ]
+  }
