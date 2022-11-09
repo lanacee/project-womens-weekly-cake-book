@@ -31,7 +31,7 @@ The book has sold over a million copies since being published in 1980 and even h
 The 'duck cake' recently returned to fame after featuring in an episode of the popular Australian animated television series Bluey.
 
 <img
-  src="/book_images/original_cover.jpeg"
+  src="/book_images/bluey-duck-cake-recipe.jpeg"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 # User story
